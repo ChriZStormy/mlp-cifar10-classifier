@@ -17,10 +17,6 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes (dogs, 
 * **Data Processing:** Torchvision / NumPy
 * **Visualization:** Matplotlib (for loss/accuracy curves)
 
-## 📈 Results
-*(Note: Insert a screenshot here of your Loss/Accuracy graph or your final accuracy percentage on the test set)*
-- **Final Test Accuracy:** XX%
-- **Loss Convergence:** Reached stability at epoch XX.
 
 ## ⚙️ How to Run
 Open the Jupyter Notebook `MLP_CIFAR10_Practica.ipynb` and run the cells sequentially to download the dataset, train the network, and evaluate the model.
