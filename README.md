@@ -1,4 +1,4 @@
-```markdown
+
 # CIFAR-10 Multi-Layer Perceptron (MLP) Classifier 🖼️
 
 A deep learning project implementing a Multi-Layer Perceptron (MLP) neural network to classify the **CIFAR-10** dataset. This repository demonstrates foundational computer vision techniques using standard fully connected layers before transitioning into Convolutional Neural Networks (CNNs).
